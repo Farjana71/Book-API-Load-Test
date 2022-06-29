@@ -52,6 +52,6 @@
 
 - Test Summary Report - 2500 users for 950 seconds
 
-| ![Test Summary Report](./Images/reports.png) |
+| ![Test Summary Report](./Images/report.png) |
 | :------------------------------------------: |
 |               _Summary Report_               |
